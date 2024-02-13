@@ -20,6 +20,7 @@ int main()
 {
 	int n = 5;
 	int x = fib(n);
-	printf("Fibonacci of %d: %d\n", n, x);
+	printf("Fibonacci of %d: %d\n\n", n, x);
+
 	return 0;
 }
